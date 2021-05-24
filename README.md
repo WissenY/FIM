@@ -1,2 +1,2 @@
 # FIM
-Better code implementation than *Machine Learning in Action* ！！！
+A better implementation than *Machine Learning in Action* ！！！
